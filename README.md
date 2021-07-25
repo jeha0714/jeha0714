@@ -8,6 +8,6 @@ Hola..... I'm in Korea army now....🚀
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=black"/>
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=round-square&logo=C&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=round-square&logo=Java&logoColor=white"/>
 </p> 
