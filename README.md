@@ -1,5 +1,8 @@
 Hola..... I'm in Korea army now....🚀
 
+### 💻 What i use?
+![jeha0714's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&layout=compact&hide=jupyter%20notebook,tcl,powershell,CSS&langs_count=6)
+github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&langs_count=8
 
 #### Baekjoon
 [![Solved.ac
