@@ -1,7 +1,7 @@
 Hola..... I'm in Korea army now....🚀
 
 ### 💻 What i use?
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&langs_count=8&layout=compact&theme=dark)](https://github.com/jeha0714/jeha0714)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&langs_count=6&layout=compact&theme=dark)](https://github.com/jeha0714/jeha0714)
 
 
 #### Baekjoon
