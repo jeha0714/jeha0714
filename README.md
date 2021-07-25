@@ -1,12 +1,13 @@
 Hola..... I'm in Korea army now....🚀
 
 ### 💻 What i use?
-![jeha0714's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&layout=compact&hide=jupyter%20notebook,tcl,powershell,CSS&langs_count=6)
-github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&langs_count=8
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeha0714&langs_count=4&layout=compact&theme=dark)](https://github.com/jeha0714/jeha0714)
+
 
 #### Baekjoon
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeha0714)](https://solved.ac/jeha0714)
+
 
 ### 💪 Skills
 #### Platforms & Languages
