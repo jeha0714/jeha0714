@@ -11,7 +11,7 @@ Hola! 🚀
 
 
 
-### Baekjoon (C Language)
+### Baekjoon (C / C++ Language)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeha0714)](https://solved.ac/jeha0714)
 
